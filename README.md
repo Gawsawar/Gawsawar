@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Gawsawar/Gawsawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Abdul Qayum Gawsawar
+Graduate Computer Science Student at Northeastern Illinois University (NEIU)
+Passionate about Object-Oriented Programming, Software Development and Web Develoment
+Interested in Cloud Computing, information System and, and Artificial Intelligence
+## Skills:
+Programming: Java, Python, C++, SQL, HTML,CSS, and JavaScript
+Tools: Git, GitHub, Intellij IDEA, VS Code
+Concepts: Object- Oriented Programming, Data Structures, Algorithms
+### Currently Learning:
+Advanced Java Programming, Discrete Structures, Professional Computing
+### How to reach me
+Email: agawsawar@neiu.edu
+LinkedIn: [       ]
